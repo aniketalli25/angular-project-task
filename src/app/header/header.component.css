@@ -1,0 +1,27 @@
+.flag-img{
+  width: 25px;
+  height: 25px;
+}
+.nav-logos img{
+  height: 20px;
+  width: 20px;
+
+}
+.dropdown-toggle::after{
+  display: none !important;
+}
+.dropdown-menu.show {
+  display: block;
+  width: 300px;
+  
+}
+.dropdown-toggle i{
+  font-size: 11px;
+}
+/* .dropstart .dropdown-toggle::after {
+ display:none !important;
+}
+
+#dropdownMenuButton1::after {
+  display: none;
+} */

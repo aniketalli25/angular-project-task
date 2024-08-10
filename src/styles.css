@@ -1,0 +1,35 @@
+a{
+  text-decoration: none;
+}
+.footer h5 {
+font-size: 1.2rem;
+}
+
+.footer ul li a {
+color: #ccc;
+text-decoration: none;
+}
+
+.footer ul li a:hover {
+color: #fff;
+text-decoration: underline;
+}
+
+.footer .form-control {
+background-color: #333;
+color: #fff;
+border: 1px solid #555;
+}
+
+.footer .form-control:focus {
+background-color: #333;
+color: #fff;
+border: 1px solid #777;
+}
+
+.footer .btn-light {
+color: #333;
+background-color: #fff;
+border: none;
+}
+

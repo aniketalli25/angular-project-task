@@ -1,0 +1,46 @@
+.input-container {
+  display: flex;
+  width: fit-content;
+  align-items: center;
+  border: 2px solid #fff;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: #212020
+}
+
+.email-input {
+  border: none;
+  padding: 10px;
+  flex: 1;
+  color: #ccc;
+  background-color: #212020;
+}
+
+.email-input::placeholder {
+  color: #ccc;
+}
+
+.submit-button {
+  border: none;
+  padding: 10px 20px;
+  background-color: #fff;
+  color: #000;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.submit-button:hover {
+  background-color: #ddd;
+}
+
+.content-text{
+ margin-top: -29px !important;
+ font-size: 17px;
+}
+.bg-color{
+  background-color: #212020;
+}
+.text-footer
+{
+  font-size: smaller;
+}
